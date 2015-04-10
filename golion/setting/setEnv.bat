@@ -1,0 +1,1 @@
+set InstallProject=test
