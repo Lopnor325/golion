@@ -120,7 +120,7 @@ namespace golion.launch
 
         public string getLocation()
         {
-            return "http://code.taobao.org/p/golion";
+            return "https://github.com/aaasoft/golion";
         }
 
         public string getSymbolicName()
